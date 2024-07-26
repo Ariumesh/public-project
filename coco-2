@@ -1,6 +1,6 @@
 from datetime import datetime
 
-# timestamp is number of seconds since 1970-01-01 
+d= timestamp is  
 timestamp = 1545730073
 
 # convert the timestamp to a datetime object in the local timezone
