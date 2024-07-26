@@ -1,10 +1,12 @@
+ 
 from datetime import datetime
 
 d= timestamp is  
+ 
 timestamp = 1545730073
 
 # convert the timestamp to a datetime object in the local timezone
-dt_object = datetime.fromtimestamp(timestamp)
+dt_t = datetime.fromtimestamp(timestamp)
 
 # print the datetime object and its type
 print("dt_object =", dt_object)
